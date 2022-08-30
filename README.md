@@ -1,7 +1,9 @@
 ### README
 
+[![CircleCI](https://circleci.com/gh/EverWinter23/aes-ecb-pkcs5.svg?style=shield)](https://circleci.com/gh/EverWinter23/aes-ecb-pkcs5)
+
 Simple `python3` library built using only the **standard library**. This library contains
-utility methods for AES/ECB/PKCS5 encryption[to base64] and decryption[from base64].
+utility methods for **AES/ECB/PKCS5** encryption[to base64] and decryption[from base64].
 
 
 ### INSTALLATION
